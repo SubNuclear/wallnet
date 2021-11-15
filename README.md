@@ -1,30 +1,18 @@
 ![logo](src/main/resources/logo.png)
 
-# Wurst+3 
+# Wallnet
 
-<img src="https://img.shields.io/github/downloads/WurstPlus/wurst-plus-three/total" alt="dwnlds" />
+<img src="https://cdn.discordapp.com/icons/872138065894850580/39be91269f68ad13d623db234b84cab8.png" alt="dwnlds" />
 
-[Discord](https://discord.com/invite/hvnZePKQHx) | [Donate](https://paypal.me/trvsf) | [Download](https://github.com/TrvsF/wurst-plus-three/releases/latest)
+[Discord](https://discord.gg/Ew4VWCHeY7) | [Donate](https://paypal.me/trvsf) | [Download](https://github.com/TrvsF/wurst-plus-three/releases/latest)
 
 1.12.2 forge minecraft client
 
-Made for crystalpvp and killing noobs.
+Made for noobs
 
 On first run ensure your voices volume is maxed ;)
 
 [CoC](CODE_OF_CONDUCT.md)
-
-## Donations
-
-Join the discord for more infomation.
-
-2 Boosts in discord OR $5 for 1 month 'cool dudes' cape.
-
-10 boosts in discord OR $15 for lifetime custom cape.
-
-To donate use link above and make sure your discord tag is included in the comments, then DM travis#0001 on discord.
-
-Nitro boosts capes will be given ASAP.
 
 ## Credits
 
@@ -34,7 +22,7 @@ Also the old gui is using [panel studio](https://github.com/lukflug/PanelStudio/
 
 ## Why
 
-Got bored pt. 3, began work as a project for my friends to pvp, turned into this
+Wallhacks won't give me wallnet, so I made my own ez.
 
 ## How
 
